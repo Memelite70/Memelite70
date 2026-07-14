@@ -1,5 +1,13 @@
-## Hi there 👋
-
+## Hallo 👋
+ - Owner of [https://rhodiumedu.cfd](Rhodium Unblocker)
+ - Currently learning German
+ - Trying to better myself
+## Past Projects:
+ - [https://github.com/Memelite70/neongames](Neon Games.io)
+ - [https://github.com/ashpxl/ashpxl.github.io](AshPixel Games) (Still live at [https://ashpxl.github.io](https://ashpixel.github.io))
+ - [https://github.com/Memelite70/azurite-demo](Azurite)
+ - [https://github.com/Memelite70/obsidiannetwork](Obsidian Network) (Not the google sites slop one)
+ - and the O.G, [https://github.com/games-77/games-77.github.io](Geometry Games.online / Games-77.github.io)
 <!--
 **Memelite70/Memelite70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
